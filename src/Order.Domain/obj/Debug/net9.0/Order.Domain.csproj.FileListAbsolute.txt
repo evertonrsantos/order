@@ -1,0 +1,11 @@
+C:\_dev\rodrgueira\Order\src\Order.Domain\bin\Debug\net9.0\Order.Domain.deps.json
+C:\_dev\rodrgueira\Order\src\Order.Domain\bin\Debug\net9.0\Order.Domain.dll
+C:\_dev\rodrgueira\Order\src\Order.Domain\bin\Debug\net9.0\Order.Domain.pdb
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\Order.Domain.AssemblyInfoInputs.cache
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\Order.Domain.AssemblyInfo.cs
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\Order.Domain.dll
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\refint\Order.Domain.dll
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\Order.Domain.pdb
+C:\_dev\rodrgueira\Order\src\Order.Domain\obj\Debug\net9.0\ref\Order.Domain.dll

@@ -1,0 +1,15 @@
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.csproj.AssemblyReference.cache
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.AssemblyInfoInputs.cache
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.AssemblyInfo.cs
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\_dev\rodrgueira\Order\src\Order.Application\bin\Debug\net9.0\Order.Application.deps.json
+C:\_dev\rodrgueira\Order\src\Order.Application\bin\Debug\net9.0\Order.Application.dll
+C:\_dev\rodrgueira\Order\src\Order.Application\bin\Debug\net9.0\Order.Application.pdb
+C:\_dev\rodrgueira\Order\src\Order.Application\bin\Debug\net9.0\Order.Domain.dll
+C:\_dev\rodrgueira\Order\src\Order.Application\bin\Debug\net9.0\Order.Domain.pdb
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Ap.8554589A.Up2Date
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.dll
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\refint\Order.Application.dll
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\Order.Application.pdb
+C:\_dev\rodrgueira\Order\src\Order.Application\obj\Debug\net9.0\ref\Order.Application.dll
